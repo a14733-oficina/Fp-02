@@ -59,19 +59,3 @@ O website é construído com base em HTML5 e CSS, com foco em layout flexível:
         *   **Dispositivos Móveis (Padrão):** Layout de uma coluna.
         *   **Tablets (`min-width: 768px`):** Layout de duas colunas.
         *   **Desktops (`min-width: 1024px`):** Layout de três colunas e navegação horizontal no cabeçalho.
-
-## Como Visualizar o Website
-
-1.  Clone o repositório para o seu ambiente local.
-2.  Abra o ficheiro `index.html` diretamente no seu navegador.
-3.  Navegue entre as páginas através dos links no cabeçalho: "Catálogo", "Equipa" e "Contacto".
-
-## Melhorias Sugeridas
-
-*   **Consolidar CSS:** Mover todo o código CSS incorporado para o ficheiro externo `css/style.css` para melhorar a organização, manutenção e desempenho do website.
-*   **Preencher Conteúdo:** Adicionar conteúdo relevante à página `contacto.html` e garantir que o `js/script.js` seja utilizado se houver necessidade de interatividade.
-*   **Títulos das Páginas:** Corrigir o título das páginas HTML (atualmente "Document") para títulos descritivos (e.g., "Total 90 - Catálogo").
-*   **Acessibilidade:** Garantir que todos os links e botões sejam funcionais e acessíveis.
-
----
-*Este README foi gerado automaticamente com base na análise do projeto.*
